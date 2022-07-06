@@ -1,0 +1,80 @@
+JOHANNESBURG, South Africa, July 6, 2022/APO Group/ -- 
+                                                        
+                            Today, Meta (www.Facebook.com) announced that it has built and open sourced ‘No Language Left Behind’ NLLB-200 (https://bit.ly/3yJo7KS), a single AI model that is the first to translate across 200 different languages, including 55 African languages with state-of-the-art results. Meta is using the modelling techniques and learnings from the project to improve and extend translations on Facebook, Instagram, and Wikipedia.
+        
+                                    
+                    
+                        
+                                                
+                        
+                        
+                            VIDEO                        
+
+                        
+                            200 languages within a single AI model: A breakthrough in high-quality machine translation                        
+                    
+                
+                                         
+               
+                         Share
+              
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              
+            
+            
+                 Copy Embed
+            
+        
+        
+    
+    <iframe width="560" height="315" src="https://www.africa-newsroom.com/press/embed_video/79976/e" frameborder="0" allowfullscreen ></iframe> 
+
+
+ 
+    {
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "name": "Meta’s AI Machine Translation Research Helps Break Language Barriers",
+      "description": "200 languages within a single AI model: A breakthrough in high-quality machine translation",
+      "thumbnailUrl": [
+        "https://img.youtube.com/vi/uCxSPPiwrNE/0.jpg"
+       ],
+      "uploadDate": "2022-07-06T16:17:37Z",
+      "embedUrl": "https://www.youtube.com/embed/uCxSPPiwrNE"
+    }
+    
+
+
+    
+
+
+
+In an effort to develop high-quality machine translation capabilities for most of the world’s low-resource languages (https://bit.ly/3Av3FyB), this single AI model was designed with a focus on African languages. They are challenging from a machine translation perspective. AI models require lots and lots of data to help them learn, and there's not a lot of human translated training data for these languages. For example, there’s more than 20M people who speak and write in Luganda but examples of this written language are extremely difficult to find on the internet.
+
+We worked with professional translators for each of these languages to develop a reliable benchmark which can automatically assess translation quality for many low-resource languages. We also work with professional translators to do human evaluation too, meaning people who speak the languages natively evaluate what the AI produced. The reality is that a handful of languages dominate the web, so only a fraction of the world can access content and contribute to the web in their own language. We want to change this by creating more inclusive machine translations systems – ones that unlock access to the web for the more than 4B people around the world that are currently excluded because they do not speak one of the few languages content is available in.
+
+“It's impressive how much AI is improving all of our services. We just open-sourced an AI model we built that can translate across 200 different languages -- many of which aren't supported by current translation systems. We call this project No Language Left Behind, and the AI modelling techniques we used are helping make high quality translations for languages spoken by billions of people around the world. To give a sense of the scale, the 200-language model has over 50 billion parameters, and we trained it using our new Research SuperCluster, which is one of the world’s fastest AI supercomputers. The advances here will enable more than 25 billion translations every day across our apps. Communicating across languages is one superpower that AI provides, but as we keep advancing our AI work it's improving everything we do -- from showing the most interesting content on Facebook and Instagram, to recommending more relevant ads, to keeping our services safe for everyone.,” said Meta CEO Mark Zuckerberg in a post on his Facebook profile (https://bit.ly/3nJEBwo).
+
+Language is our culture, identity, and lifeline to the world. However, as high-quality translation tools don’t exist for hundreds of languages, billions of people today can't access digital content or participate fully in conversations and communities online in their preferred or native languages. This is especially true for hundreds of millions of people who speak the many languages of Africa.
+                                We just open-sourced an AI model we built that can translate across 200 different languages -- many of which aren't supported by current translation systems
+                            
+
+“Africa is a continent with very high linguistic diversity, and language barriers exist day to day. We are pleased to announce that 55 African languages will be included in this machine translation research, making it a major breakthrough for our continent,” Balkissa Ide Siddo, Public Policy Director for Africa said while speaking about the launch of the AI model. “In the future, imagine visiting your favourite Facebook group, coming across a post in Igbo or Luganda, and being able to understand it in your own language with just a click of a button – that’s where we hope research like this leads us. Highly accurate translations in more languages could also help to spot harmful content and misinformation, protect election integrity, and curb instances of online sexual exploitation and human trafficking.” 
+
+While commenting on accessibility and inclusion in the pursuit of building an equitable metaverse, Ide Siddo added “At Meta, we are working today to ensure that as many people as possible will be able to access the new educational, social and economic opportunities that the next evolution of the internet will bring to future technology and an everyday living experience tomorrow.” 
+
+To confirm that the translations are high quality, Meta also created a new evaluation dataset, FLORES-200 (https://bit.ly/3aqMnrM), and measured NLLB-200’s performance in each language. Results revealed that NLLB-200 exceeds the previous state of the art by an average of 44 percent. 
+
+Meta is also open-sourcing the NLLB-200 model and publishing a slew of research tools to enable other researchers to extend this work to more languages and build more inclusive technologies. Meta AI is also providing up to $200,000 of grants to non-profit organizations for real world applications for NLLB-200.  
+
+There are versions of Wikipedia in more than 300 languages, but most have far fewer articles than the 6+ million available in English. Following Meta’s partnership with the Wikimedia Foundation (https://WikimediaFoundation.org), the non-profit organization that hosts Wikipedia and other free knowledge projects, modelling  techniques and learnings from the NLLB research are now also being applied to translation systems used by Wikipedia editors. Using the Wikimedia Foundation’s Content Translation Tool (https://bit.ly/3NNCMcf), articles can now be easily translated in more than 20 low-resource languages (those that don’t have extensive datasets to train AI systems), including 10 that previously were not supported by any machine translation tools on the platform.
+
+To explore a demo of NLLB-200 showing how the model can translate stories from around the world, visit here (https://bit.ly/3AxuouI). You can also read the research paper here (https://bit.ly/3AASuEV).
